@@ -26,14 +26,14 @@ main h2 {
 
 /* Add Student Styles Below */
 .jane-style {
-    color: hotpink;
+    color: red;
     background-color: black;
     padding: 3px;
 }
 
 .code-ninja-style {
-    color: blue;
-    background-color: lightblue;
+    color: green;
+    background-color: red;
     padding: 3px;
 }
 
